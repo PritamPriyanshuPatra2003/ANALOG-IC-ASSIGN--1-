@@ -62,10 +62,9 @@ These blocks are the foundation for more complex analog systems.
 ## 5. Tools and Simulation
 
 Used for schematic entry, simulation, and layout:  
-- **Cadence Virtuoso**  
 - **LTspice**  
 - **Spectre**  
-- **Mentor Graphics**
+
 
 Common simulations: DC, AC, Transient, Noise
 
