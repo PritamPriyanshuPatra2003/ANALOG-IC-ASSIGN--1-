@@ -86,143 +86,19 @@ This section explains the working and transfer function of a high-pass filter us
 - **Input Capacitor \( C_i = 4.7 \mu F \)**: Blocks DC and allows AC signals to pass.
 - **Resistors \( R_i = R_f = 5k\Omega \)**: Define gain and time constant of the filter.
 - **Op-Amp**: Configured in non-inverting mode to amplify the filtered signal.
+**S-Domain Transfer Function:**
 
-📐 Transfer Function (S-domain):
-𝐻
-(
-𝑠
-)
-=
-𝑉
-𝑜
-𝑢
-𝑡
-(
-𝑠
-)
-𝑉
-𝑖
-𝑛
-(
-𝑠
-)
-=
-−
-𝑅
-𝑓
-⋅
-𝑠
-𝐶
-𝑖
-1
-+
-𝑠
-𝑅
-𝑖
-𝐶
-𝑖
-H(s)= 
-V 
-in
-​
- (s)
-V 
-out
-​
- (s)
-​
- =− 
-1+sR 
-i
-​
- C 
-i
-​
- 
-R 
-f
-​
- ⋅sC 
-i
-​
- 
-​
- 
-At low frequencies: 
-𝐻
-(
-𝑠
-)
-→
-0
-H(s)→0
+H(s) = (Rf * s * Ci) / (1 + s * Ri * Ci)
 
-At high frequencies: 
-𝐻
-(
-𝑠
-)
-→
-−
-𝑅
-𝑓
-𝑅
-𝑖
-=
-−
-1
-H(s)→− 
-R 
-i
-​
- 
-R 
-f
-​
- 
-​
- =−1
+- At low frequencies (s → 0), H(s) → 0 → High attenuation of low-frequency signals.
+- At high frequencies (s → ∞), H(s) → Rf / Ri = 1 → Passes high frequencies with gain 1.
 
-🔻 Cutoff Frequency:
-𝑓
-𝑐
-=
-1
-2
-𝜋
-𝑅
-𝑖
-𝐶
-𝑖
-=
-1
-2
-𝜋
-⋅
-5
-𝑘
-⋅
-4.7
-𝜇
-≈
-6.76
- Hz
-f 
-c
-​
- = 
-2πR 
-i
-​
- C 
-i
-​
- 
-1
-​
- = 
-2π⋅5k⋅4.7μ
-1
-​
- ≈6.76 Hz
+---
 
+### 🔻 Cutoff Frequency (fc):
+
+fc = 1 / (2πRiCi)
+
+For Ri = 5kΩ, Ci = 4.7μF:
+
+fc ≈ 6.77 Hz
