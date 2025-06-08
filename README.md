@@ -86,6 +86,7 @@ This section explains the working and transfer function of a high-pass filter us
 - **Input Capacitor \( C_i = 4.7 \mu F \)**: Blocks DC and allows AC signals to pass.
 - **Resistors \( R_i = R_f = 5k\Omega \)**: Define gain and time constant of the filter.
 - **Op-Amp**: Configured in non-inverting mode to amplify the filtered signal.
+
 **S-Domain Transfer Function:**
 
 H(s) = (Rf * s * Ci) / (1 + s * Ri * Ci)
