@@ -45,5 +45,17 @@ This model helps in:
 <img src="schematic/thevenineqcktmic.png" width="600"/>
 
 > 📷 This schematic shows the practical implementation of the Thevenin model using Xschem.
+> ---
+
+### 📈 Output Response of the Microphone Circuit
+
+The simulation below shows the voltage output (`vout`) across the load, after signal amplification and filtering.
+
+<img src="" width="600"/>
+
+> 🧪 This waveform helps verify if the designed circuit properly amplifies the mic signal within expected voltage ranges.
+
+---
+
 
 
