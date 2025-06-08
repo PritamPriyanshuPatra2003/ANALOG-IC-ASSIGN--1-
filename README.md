@@ -103,3 +103,27 @@ fc = 1 / (2πRiCi)
 For Ri = 5kΩ, Ci = 4.7μF:
 
 fc ≈ 6.77 Hz
+
+
+### 1. Op-Amp Schematic Diagram
+
+*Detailed internal schematic of the operational amplifier:*
+
+![Op-Amp Schematic Diagram](cktimg/opamp_schematic.png)
+
+---
+
+### 2. Op-Amp Symbolic Diagram
+
+*Standard symbolic representation of an operational amplifier:*
+
+![Op-Amp Symbolic Diagram](cktimg/opamp_symbol.png)
+
+---
+
+### 3. High-Pass Filter Circuit Using the Op-Amp
+
+*High-pass filter circuit built using the op-amp symbol shown above:*
+
+![High-Pass Filter Circuit](cktimg/Fig-d5-1-highPass.png)
+
