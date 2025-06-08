@@ -132,7 +132,6 @@ fc ≈ 6.77 Hz
 
 *The plot below shows the frequency response (gain vs frequency) of the high-pass filter circuit.*
 
-![High-Pass Filter Frequency Response]
 <img src="schematic/opampsymbolic.jpeg" width="500"/>
 
 
@@ -142,7 +141,6 @@ fc ≈ 6.77 Hz
 
 *Output waveform from the Simulink simulation of the high-pass filter circuit.*
 
-![Simulink Output ]
 <img src="schematic/opampsymbolic.jpeg" width="500"/>
 
 
