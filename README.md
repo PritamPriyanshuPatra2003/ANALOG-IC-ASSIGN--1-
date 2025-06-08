@@ -65,7 +65,7 @@ The frequency response reveals the bandwidth and filtering effects of the analog
 
 The Simulink simulation confirms system-level behavior and time-domain signal dynamics.
 
-<img src="simulations/micsim.jpeg" width="500"/>
+<img src="simulations/micsim.jpeg" width="400"/>
 
 ### 🔧 Op-Amp Modeling as a Single Pole System
 
