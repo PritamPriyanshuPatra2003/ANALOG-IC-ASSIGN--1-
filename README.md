@@ -51,7 +51,7 @@ This model helps in:
 
 The simulation below shows the voltage output (`vout`) across the load, after signal amplification and filtering.
 
-<img src="schematic/micoutput.png" width="400"/>
+<img src="schematic/micoutput.png" width="100"/>
 
 > 🧪 This waveform helps verify if the designed circuit properly amplifies the mic signal within expected voltage ranges.
 
