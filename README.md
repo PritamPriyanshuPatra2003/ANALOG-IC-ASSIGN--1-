@@ -6,7 +6,7 @@ This repository documents various aspects of analog integrated circuit (IC) desi
 
 ## 📑 Table of Contents
 
-1. [USB Microphone System Analysis](
+1. [USB Microphone System Analysis](#1-usb-microphone-system-analysis)
 2. [Fundamental Analog Concepts](#2-fundamental-analog-concepts)  
 3. [Biasing and Operating Point](#3-biasing-and-operating-point)  
 4. [Small Signal Analysis](#4-small-signal-analysis)  
