@@ -141,7 +141,7 @@ fc ≈ 6.77 Hz
 
 *simulink output from the Simulink simulation of the high-pass filter circuit.*
 
-<img src="schematic/opampsymbolic.jpeg" width="500"/>
+<img src="simulations/highsim.jpeg" width="500"/>
 
 
 
