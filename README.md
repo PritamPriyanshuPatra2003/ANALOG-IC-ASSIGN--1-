@@ -51,7 +51,7 @@ This model helps in:
 
 The simulation below shows the voltage output (`vout`) across the load, after signal amplification and filtering.
 
-<img src="schematic/micoutput.png" width="100"/>
+<img src="schematic/micoutput.png" width="600"/>
 
 > 🧪 This waveform helps verify if the designed circuit properly amplifies the mic signal within expected voltage ranges.
 
@@ -65,7 +65,7 @@ The frequency response reveals the bandwidth and filtering effects of the analog
 
 The Simulink simulation confirms system-level behavior and time-domain signal dynamics.
 
-<img src="simulations/micsim.jpeg" width="600"/>
+<img src="simulations/micsim.jpeg" width="500"/>
 
 ### 🔧 Op-Amp Modeling as a Single Pole System
 
