@@ -139,7 +139,7 @@ fc ≈ 6.77 Hz
 
 ### 2. Simulink Output of the High-Pass Filter
 
-*Output waveform from the Simulink simulation of the high-pass filter circuit.*
+*simulink output from the Simulink simulation of the high-pass filter circuit.*
 
 <img src="schematic/opampsymbolic.jpeg" width="500"/>
 
