@@ -75,6 +75,27 @@ The Simulink simulation confirms system-level behavior and time-domain signal dy
 
 <img src="simulations/micopampsim.jpeg" width="400"/>
 
+## 2. High-Pass Filter Circuit
+
+This section explains the working and transfer function of a high-pass filter using an op-amp.
+
+![High-Pass Circuit](assets/Fig-d5-1-highPass.png)
+
+**Circuit Overview:**
+
+- **Input Capacitor \( C_i = 4.7 \mu F \)**: Blocks DC and allows AC signals to pass.
+- **Resistors \( R_i = R_f = 5k\Omega \)**: Define gain and time constant of the filter.
+- **Op-Amp**: Configured in non-inverting mode to amplify the filtered signal.
+
+**Transfer Function (s-domain):**
+
+\[
+\frac{V_{out}(s)}{V_{in}(s)} = \frac{s R_f C_i}{1 + s R_i C_i}
+\]
+
+This represents a **first-order high-pass filter** with a cutoff frequency \( f_c = \frac{1}{2\pi R_i C_i} \).
+
+
 
 
 
