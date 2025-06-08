@@ -132,7 +132,7 @@ fc ≈ 6.77 Hz
 
 *The plot below shows the frequency response (gain vs frequency) of the high-pass filter circuit.*
 
-<img src="schematic/opampsymbolic.jpeg" width="500"/>
+<img src="plot/highpassfreq.jpeg" width="500"/>
 
 
 ---
