@@ -60,7 +60,7 @@ The simulation below shows the voltage output (`vout`) across the load, after si
 
 To better analyze the frequency response of the analog front-end, the operational amplifier is modeled using a **single-pole transfer function**. This provides insight into the bandwidth limitations and phase behavior of the amplifier.
 
-<img src="cktimg/micopamp.png" width="600"/>
+<img src="schematic/micopamp.png" width="600"/>
 
 
 
