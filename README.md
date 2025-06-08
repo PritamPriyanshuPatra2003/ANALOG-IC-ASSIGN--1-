@@ -7,7 +7,7 @@ This repository documents various aspects of analog integrated circuit (IC) desi
 ## 📑 Table of Contents
 
 1. [USB Microphone System Analysis](#1-usb-microphone-system-analysis)
-2. High-Pass Filter Circuit(#2-high-pass-filter-circuit)
+2. [High-Pass Filter Circuit](#2-high-pass-filter-circuit)
 
 ---
 
