@@ -79,7 +79,7 @@ The Simulink simulation confirms system-level behavior and time-domain signal dy
 
 This section explains the working and transfer function of a high-pass filter using an op-amp.
 
-![High-Pass Circuit](assets/Fig-d5-1-highPass.png)
+![High-Pass Circuit](cktimg/Fig-d5-1-highPass.png)
 
 **Circuit Overview:**
 
