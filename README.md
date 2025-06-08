@@ -76,7 +76,7 @@ To better analyze the frequency response of the analog front-end, the operationa
 
 The Simulink simulation confirms system-level behavior and time-domain signal dynamics.
 
-<img src="simulations/micsim.jpeg" width="400"/>
+<img src="simulations/micopampsim.jpeg" width="400"/>
 
 
 
