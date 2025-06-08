@@ -125,5 +125,5 @@ fc ≈ 6.77 Hz
 
 *High-pass filter circuit built using the op-amp symbol shown above:*
 
-![High-Pass Filter Circuit](cktimg/Fig-d5-1-highPass.png)
+![High-Pass Filter Circuit](schematic/highpassckt.jpeg)
 
