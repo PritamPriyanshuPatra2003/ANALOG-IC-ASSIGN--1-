@@ -117,7 +117,7 @@ fc ≈ 6.77 Hz
 
 *Standard symbolic representation of an operational amplifier:*
 
-![Op-Amp Symbolic Diagram](cktimg/opamp_symbol.png)
+![Op-Amp Symbolic Diagram](schematic/opampsymbolic.jpeg)
 
 ---
 
