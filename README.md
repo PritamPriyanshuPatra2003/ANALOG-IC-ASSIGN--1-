@@ -21,7 +21,7 @@ This repository documents various aspects of analog integrated circuit (IC) desi
 
 This section explains the analog front-end of a USB microphone setup and its role in signal conditioning and conversion.
 
-<img src="./cktimg/Fig-d5-3-micbreakout_noise.png" width="500"/>
+<img src="cktimg/Fig-d1-1-USBmic.png" width="500"/>
 
 **System Overview**:
 
