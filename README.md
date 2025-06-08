@@ -103,7 +103,7 @@ fc = 1 / (2πRiCi)
 For Ri = 5kΩ, Ci = 4.7μF:
 
 fc ≈ 6.77 Hz
-
+---
 
 ###  Op-Amp Schematic Diagram
 
