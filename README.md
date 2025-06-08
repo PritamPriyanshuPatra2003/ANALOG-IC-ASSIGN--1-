@@ -142,6 +142,8 @@ fc ≈ 6.77 Hz
 *simulink output from the Simulink simulation of the high-pass filter circuit.*
 
 <img src="simulations/highsim.jpeg" width="500"/>
+📄 [Click here to view simulation code](https://github.com/PritamPriyanshuPatra2003/ANALOG-IC-ASSIGN--1-/blob/main/xschem/mictest)
+
 
 
 
