@@ -56,6 +56,12 @@ The simulation below shows the voltage output (`vout`) across the load, after si
 > 🧪 This waveform helps verify if the designed circuit properly amplifies the mic signal within expected voltage ranges.
 
 ---
+#### 📈 Frequency Response
+
+The frequency response reveals the bandwidth and filtering effects of the analog stage.
+
+<img src="plots/micfreq.png" width="500"/>
+
 ### 🔧 Op-Amp Modeling as a Single Pole System
 
 To better analyze the frequency response of the analog front-end, the operational amplifier is modeled using a **single-pole transfer function**. This provides insight into the bandwidth limitations and phase behavior of the amplifier.
