@@ -33,5 +33,17 @@ This section explains the analog front-end of a USB microphone setup and its rol
 > 🎧 This design enables real-time conversion of sound into USB-MIDI digital data using analog IC techniques.
 
 ---
+### 🎛️ Thevenin Equivalent Model of the Microphone
+
+To understand the microphone as a signal source, it can be modeled with its **Thevenin equivalent**:
+
+This model helps in:
+- Analyzing signal strength and loading
+- Impedance matching for the amplifier input
+- Ensuring minimal signal loss at the interface
+
+<img src="images/thevenineqcktmic.png" alt="Thevenin Equivalent Microphone Circuit - Xschem" width="600"/>
+
+> 📷 This schematic shows the practical implementation of the Thevenin model using Xschem.
 
 
