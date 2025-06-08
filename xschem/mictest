@@ -1,1 +1,27 @@
+** sch_path: /home/pikun/work/xschem/mictest.sch
+**.subckt mictest
+R1 vin2 virt 4.7k m=1
+C1 vout GND 1p m=1
+V1 vcm GND 1.5
+V2 vnmic GND 0 AC 1
+R2 vnmic vin1 380 m=1
+C2 virt vout 27p m=1
+R3 virt vout 300k m=1
+C3 vin1 vin2 4.7u m=1
+E1 vout GND vcm virt 10000
+**** begin user architecture code
 
+
+
+.control
+        op
+        save all
+        plot vdb(vout)
+        write mictest.raw
+.endc
+
+
+**** end user architecture code
+**.ends
+.GLOBAL GND
+.end
