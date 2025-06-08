@@ -67,6 +67,7 @@ The Simulink simulation confirms system-level behavior and time-domain signal dy
 
 <img src="simulations/micsim.jpeg" width="400"/>
 ---
+
 📄 [Click here to view simulation code](https://github.com/PritamPriyanshuPatra2003/ANALOG-IC-ASSIGN--1-/blob/main/xschem/mictest)
 
 ### 🔧 Op-Amp Modeling as a Single Pole System
