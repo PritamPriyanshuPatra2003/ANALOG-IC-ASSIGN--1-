@@ -1,4 +1,4 @@
-# 🎤 Analog IC Design Documentation
+# 🎤 Analog IC Design 
 
 This repository documents various aspects of analog integrated circuit (IC) design with examples, circuit images, simulations, and system-level analysis. It is structured for quick understanding and reference for students and enthusiasts in electronics and communication.
 
@@ -34,65 +34,4 @@ This section explains the analog front-end of a USB microphone setup and its rol
 
 ---
 
-## 2. Fundamental Analog Concepts
 
-Basic electrical laws and principles that form the building blocks of analog circuit analysis and design.
-
-- Ohm’s Law & Kirchhoff’s Laws  
-- Voltage and Current Division  
-- Small Signal Modeling  
-- Frequency Response Basics
-
----
-
-## 3. Biasing and Operating Point
-
-Establishing the correct DC operating conditions for active devices like transistors and op-amps.
-
-📄 [View PDF on Biasing](./pdfs/biasing_tutorial.pdf)
-
----
-
-## 4. Small Signal Analysis
-
-Understanding how circuits respond to small input signals using linear approximations.
-
-- Incremental Models  
-- Midband Gain  
-- Input/Output Impedance
-
----
-
-## 5. Analog Building Blocks
-
-Common subcircuits used in analog ICs:
-
-- Differential Pairs  
-- Current Mirrors  
-- Voltage References  
-- Analog Filters  
-- Operational Amplifiers
-
----
-
-## 6. Tools and Simulation
-
-Popular tools for design and verification:
-
-- LTspice  
-- Cadence Virtuoso  
-- Ngspice  
-- Spectre
-
-Simulation types: DC, AC, Transient, Noise
-
----
-
-## 7. Challenges in Analog Design
-
-- Device mismatch  
-- Power vs. performance trade-offs  
-- Layout sensitivity  
-- Temperature variations
-
-✅ Best Practice:
